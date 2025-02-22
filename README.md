@@ -1,4 +1,4 @@
-# Biology Research at LifeArc
+# Life Science Research at LifeArc
 Job : Learn how to optimise experimental conditions, analyse data to determine optimal conditions, synthesise evidence and collaboration and present your results.
 1. Design a multiplexed experiment to optimise an in vitro neuronal differentiation protocol
 2. Analyze experimental data to find the best treatment combination.
