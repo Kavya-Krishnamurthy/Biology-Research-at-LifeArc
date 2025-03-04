@@ -29,3 +29,10 @@ As a virtual Associate Scientist at LifeArc, I had the opportunity to gain hands
 This part-time experience not only allowed me to work independently but also expanded my understanding of various techniques and subject areas. The knowledge I acquired has been invaluable, significantly enhancing the quality of my practical work at the university.
 
 I plan to continue utilizing this platform extensively and applying its research insights to further refine my work in academia and beyond
+
+Completed:
+LifeArc Life Sciences: Biology Research - March 2025
+Completed a job simulation involving optimizing experimental conditions for Lifearc's Biology Research team.
+Analyzed the differentiation protocol for optimization needs.
+Reviewed and compared experimental results.
+Populated presentation slides with data and conclusions. 
